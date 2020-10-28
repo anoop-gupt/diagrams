@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-28T12:46:37.016Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="rC2zzxLA9e4SO03s2hMn" version="13.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-28T12:59:15.252Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="rYfr2AJlVVtaiX1PBzYI" version="13.8.5" type="github">
   <diagram id="gX5xE_9bdZ2ldvqt_yZb" name="Page-1">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -69,6 +69,9 @@
         </mxCell>
         <mxCell id="zRgTGlAYgOwRYu9JpwOK-26" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=0;size=0.08823529411764706;" vertex="1" parent="1">
           <mxGeometry x="90" y="150" width="18" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="zRgTGlAYgOwRYu9JpwOK-27" value="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b&gt;Questions&lt;/b&gt;:&lt;br&gt;configuration management per opco and per environment?&lt;br&gt;routing and networking? Do we need Ingress controller per app or cluster level?&lt;br&gt;Manage rollouts&amp;nbsp;across development, staging, production and custom environments&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="108" y="645" width="500" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
