@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-03T13:17:15.500Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="2YRjAZ7mbKPiqFunq7FH" version="13.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-03T13:20:21.112Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="Yv9Nl8y2OWYQU4yk_Aan" version="13.8.5" type="github">
   <diagram id="gX5xE_9bdZ2ldvqt_yZb" name="Page-1">
     <mxGraphModel dx="1186" dy="1783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="zRgTGlAYgOwRYu9JpwOK-4" value="Account App" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zRgTGlAYgOwRYu9JpwOK-5" value="sonepar.fr/home&lt;br&gt;sonepar.fr/search&lt;br&gt;sonepar.fr/cart&lt;br&gt;sonepar.fr/account" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="zRgTGlAYgOwRYu9JpwOK-5" value="webapp.fr/home&lt;br&gt;webapp.fr/search&lt;br&gt;webapp.fr/cart&lt;br&gt;webapp.fr/account" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="481" y="120" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zRgTGlAYgOwRYu9JpwOK-7" value="+ other OpCOs" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -25,7 +25,7 @@
         <mxCell id="zRgTGlAYgOwRYu9JpwOK-9" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;rotation=-180;" parent="1" vertex="1">
           <mxGeometry x="266" y="150" width="20" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="zRgTGlAYgOwRYu9JpwOK-10" value="cebeo.be/home&lt;br&gt;cebeo.be/search&lt;br&gt;cebeo.be/cart&lt;br&gt;cebeo.be/account" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="zRgTGlAYgOwRYu9JpwOK-10" value="webapp.be/home&lt;br&gt;webapp.be/search&lt;br&gt;webapp.be/cart&lt;br&gt;webapp.be/account" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="481" y="320" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zRgTGlAYgOwRYu9JpwOK-11" value="" style="endArrow=classic;html=1;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="zRgTGlAYgOwRYu9JpwOK-9" edge="1">
@@ -55,11 +55,11 @@
         <mxCell id="zRgTGlAYgOwRYu9JpwOK-18" value="Cluster Per Environment" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="120" y="560" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="zRgTGlAYgOwRYu9JpwOK-20" value="sonepar.fr namespace" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+        <mxCell id="zRgTGlAYgOwRYu9JpwOK-20" value="webapp1_namespace" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="170" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="zRgTGlAYgOwRYu9JpwOK-21" value="cebeo.be namespace" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="349" y="300" width="130" height="20" as="geometry" />
+        <mxCell id="zRgTGlAYgOwRYu9JpwOK-21" value="webapp.be namespace" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="344" y="300" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="zRgTGlAYgOwRYu9JpwOK-23" value="opco level namespace" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="440" width="130" height="20" as="geometry" />
